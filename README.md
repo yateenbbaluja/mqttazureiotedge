@@ -1,12 +1,10 @@
 # MQTT-AZURE-IOT-EDGE
 This project includes iot edge custom module with controller code with the help of Mqtt
-
-| Languages     | Products               | Page_Type | Description |
-| ------------- | -----------------------|-----------|-------------|
+-----------------------------------------------------------------------
+| Languages     | Products               | Page_Type | Description    |
+| ------------- | -----------------------|-----------|----------------|
 | Python        | azure | azure-iot-edge |sample     |This is a sample|
-                                                      showing how to deploy a|
-                                                      Custom Vision model to a|
-                                                      Raspberry Pi 3 device running Azure IoT Edge.|
+-----------------------------------------------------------------------
 
 # TECHNOLOGIES:
   * Azure IoT Edge
