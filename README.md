@@ -4,7 +4,7 @@ This project includes iot edge custom module with controller code with the help 
 | Languages     | Products               | Page_Type | Description    |
 | ------------- | -----------------------|-----------|----------------|
 | Python        | azure | azure-iot-edge |sample     |This is a sample|
------------------------------------------------------------------------
+
 
 # TECHNOLOGIES:
   * Azure IoT Edge
