@@ -1,0 +1,16 @@
+{
+    "TOPIC_PUB": "",
+    "TOPIC_SUB": "",
+    "URL": "",
+    "USER": "",
+    "PWD": "",
+    "PORT": ,
+    "QOS": 0,
+    "GAS_T": 500,
+    "SOUND_T": 100,
+    "EMAIL_To": "",
+    "EMAIL_From": "",
+    "Subject": "ALERT",
+    "Api_Key": "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"
+}
+    

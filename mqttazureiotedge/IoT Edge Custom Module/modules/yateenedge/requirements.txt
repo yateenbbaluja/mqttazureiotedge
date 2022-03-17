@@ -1,0 +1,4 @@
+azure.iot.device
+paho-mqtt
+pytz==2019.3
+termcolor
