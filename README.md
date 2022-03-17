@@ -3,9 +3,9 @@ This project includes iot edge custom module with controller code with the help 
 
 | Languages     | Products               | Page_Type | Description |
 | ------------- | -----------------------|-----------|-------------|
-| Python        | azure | azure-iot-edge |sample     |This is a sample|
-                                                     |showing how to deploy a|
-                                                     |Custom Vision model to a|
+| Python        | azure | azure-iot-edge |sample     |This is a sample
+                                                     |showing how to deploy a
+                                                     |Custom Vision model to a
                                                      |Raspberry Pi 3 device running Azure IoT Edge.|
 
 # TECHNOLOGIES:
