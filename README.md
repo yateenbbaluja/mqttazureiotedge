@@ -1,5 +1,6 @@
 # MQTT-AZURE-IOT-EDGE
 This project includes iot edge custom module with controller code with the help of Mqtt
+[![Build status](https://dev.azure.com/ranapoc/Yatin-POC-DEVOPS/_apis/build/status/Yatin-POC-DEVOPS-CI)](https://dev.azure.com/ranapoc/Yatin-POC-DEVOPS/_build/latest?definitionId=14)
 -----------------------------------------------------------------------
 | Languages     | Products               | Page_Type | Description    |
 | ------------- | -----------------------|-----------|----------------|
